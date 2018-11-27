@@ -1,0 +1,23 @@
+﻿  MyForm3.cpp
+d:\desktop\progetto1\progetto1\MyForm3.h(379): warning C4244: '=': conversione da 'double' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(390): warning C4244: 'inizializzazione': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(397): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(411): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(414): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(417): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(420): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(426): warning C4244: '=': conversione da 'float' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(462): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(477): warning C4244: '=': conversione da 'sf_count_t' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(500): warning C4244: '=': conversione da 'sf_count_t' a 'int'. Possibile perdita di dati.
+d:\desktop\progetto1\progetto1\MyForm3.h(524): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+  normalize.cpp
+normalize.cpp(17): warning C4244: 'inizializzazione': conversione da 'sf_count_t' a 'unsigned int'. Possibile perdita di dati.
+  Generazione del codice in corso...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+SorgenteAudio.obj : warning LNK4248: token typeref (0100000A) non risolto per 'SNDFILE_tag'. L'immagine potrebbe non essere eseguita
+offsetCalc.obj : warning LNK4248: token typeref (0100000C) non risolto per 'SNDFILE_tag'. L'immagine potrebbe non essere eseguita
+normalize.obj : warning LNK4248: token typeref (0100000B) non risolto per 'SNDFILE_tag'. L'immagine potrebbe non essere eseguita
+MyForm3.obj : warning LNK4248: token typeref (01000010) non risolto per 'SNDFILE_tag'. L'immagine potrebbe non essere eseguita
+convolute.obj : warning LNK4248: token typeref (0100000C) non risolto per 'SNDFILE_tag'. L'immagine potrebbe non essere eseguita
+  Progetto1.vcxproj -> D:\Desktop\Progetto1\Debug\Progetto1.exe
